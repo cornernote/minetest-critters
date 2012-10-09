@@ -42,7 +42,7 @@ Iconset Homepage: http://blog.spoongraphics.co.uk/freebies/free-cute-furry-monst
 License: CC Attribution 3.0
 
 
-critters_fluffy
+critters_furby
 
 Artist: Pixture (Hide Itoh)
 License: Free for non-commercial use.
