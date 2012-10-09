@@ -10,13 +10,17 @@ Fluffy
 
 ]]--
 
+
+-- register the critters
 critters.register(minetest.get_current_modname(), {
-	blue={},
-	green={},
-	orange={},
-	purple={},
+	blue={mob={type="monster"}},
+	green={mob={type="monster"}},
+	orange={mob={type="monster"}},
+	purple={mob={type="monster"}},
 })
 
+
+-- log that we started
 if minetest.setting_get("log_mods") then
 	minetest.log("action", minetest.get_current_modname().." loaded")
 end

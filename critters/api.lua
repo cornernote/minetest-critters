@@ -1,3 +1,11 @@
+--[[
+
+Mobs by PilzAdam
+Source Code: https://github.com/PilzAdam/mobs
+License: WTFPL
+
+]]--
+
 mobs = {}
 function mobs:register_mob(name, def)
 	minetest.register_entity(name, {
@@ -15,7 +23,7 @@ function mobs:register_mob(name, def)
 		light_damage = def.light_damage,
 		water_damage = def.water_damage,
 		lava_damage = def.lava_damage,
-		drops = def.drops or {},
+		drops = def.drops,
 		armor = def.armor,
 		drawtype = def.drawtype,
 		on_rightclick = def.on_rightclick,
