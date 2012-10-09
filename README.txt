@@ -25,6 +25,12 @@ Adds heaps of critters that run around in the game.
 Credits
 ----------------------------------
 
+mobs API 
+
+Author: PilzAdam
+Source Code: https://github.com/PilzAdam/mobs/
+License: WTFPL
+
 
 critters_animals
 
