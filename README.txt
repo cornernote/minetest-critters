@@ -3,9 +3,10 @@ Critters for Minetest
 ----------------------------------
 
 Copyright (c) 2012 cornernote, Brett O'Donnell <cornernote@gmail.com>
-Textures: see credits for texture authors and lisences
+Textures: see credits for texture authors and licenses
 
 Source Code: https://github.com/cornernote/minetest-critters
+Home Page: https://sites.google.com/site/cornernote/minetest/critters
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
@@ -54,7 +55,7 @@ Artist: Pixture (Hide Itoh)
 License: Free for non-commercial use.
 Commercial usage: Not allowed
 Readme file: critters_fluffy/textures/README.txt
-The products or characters depicted in these icons are © by Hasbro, Inc
+The products or characters depicted in these icons are ï¿½ by Hasbro, Inc
 
 
 critters_characters
