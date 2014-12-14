@@ -12,7 +12,7 @@ Adds heaps of critters that run around in the game.
 
 - **[Documentation](http://cornernote.github.io/minetest-critters)**
 - **[GitHub Project](https://github.com/cornernote/minetest-critters)**
-- **[Minetest Forum](http://minetest.net/forum/viewtopic.php?id=3337)**
+- **[Minetest Forum](https://forum.minetest.net/viewtopic.php?id=3337)**
 
 
 ## Support
